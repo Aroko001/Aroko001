@@ -1,6 +1,6 @@
 # Hello. 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar0ko192&show_icons=true&theme=synthwave)
 
 <!--
 **Ar0ko192/Ar0ko192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
