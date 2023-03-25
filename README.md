@@ -6,9 +6,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar0ko192&theme=synthwave" />
 </a>
 
-<h3 align="left">Me Working Language:</h3>
-[!(https://www.python.org/)[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]
-
 
 <!--
 **Ar0ko192/Ar0ko192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
