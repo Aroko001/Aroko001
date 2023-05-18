@@ -7,6 +7,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aroko001&theme=synthwave" />
 </a>
 
+```Py
+class Aroko001():
+  def __init__(self):
+    print("""
+こんにちは。Python好きです。
+猫のティーチくんも好きです。
+最近はDiscordのBot作りが大好きです。
+よろしくお願いします。""")
+
+if __name__ == "__main__":
+  Aroko001()
+```
+
 
 <!--
 **Aroko001/Aroko001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
