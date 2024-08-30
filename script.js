@@ -2,7 +2,7 @@
 let score = 0;
 let pointsPerClick = 1;
 let productionRate = 0;
-let stoneCost = 50;
+let stoneCost = 10;
 
 // DOM要素の取得
 const scoreElement = document.getElementById('score');
@@ -53,9 +53,20 @@ function updateUI() {
 }
 
 clickerButton.addEventListener('click', () => {
+    incrementScore();
+});
+
+document.addEventListener('keydown', (event) => {
+    if (event.code === 'Space') {
+        incrementScore();
+    }
+});
+
+// ポイントを増やす関数
+function incrementScore() {
     score += pointsPerClick;
     updateUI();
-});
+}
 
 buyStoneButton.addEventListener('click', () => {
     if (score >= stoneCost) {
