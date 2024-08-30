@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clicker Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Clicker Game</h1>
+        <p>Score: <span id="score">0</span></p>
+        <p>毎秒の生産量: <span id="production-rate">0</span></p>
+        <button id="clicker-btn">Click me!</button>
+        
+        <!-- アップグレードセクション -->
+        <div class="upgrade-section">
+            <h2>Upgrades</h2>
+            <button id="buy-stone-btn" disabled>
+                石 (<span id="stone-cost">50</span> ポイント): これはとても固い石です。+1 生産量
+            </button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
